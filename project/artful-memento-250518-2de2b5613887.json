@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "artful-memento-250518",
+  "private_key_id": "2de2b56138873c080e203e07e3c97db53fc7ae2b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOwxf9GrQ+jBUG\nqUClNbDi7ETsxYTAuuXQlgPfOKKREc+NbmCW1hFm5zu8t2fzVQKxQlGJqSoVkj9N\n7YLGbr/5n6sdhZ/dBv5tG0w9/y7XeOx/0L9q8Unx447zHJL6ozGDwNM48nJNgEOK\nIGfQRSLM1nUxwZQEdVT0TdedzY4qMu/FfEfsB1HcRkteYop7J6yEl2rr8l5oQRAa\ngoR10fwTM6xsMi+pPbHGhYFcU8u3dsBvWj903EfY8VN0OkzgmRDZWpvUOeJO+Ra0\nXo16lxOKTSpHYZBtmrcQVtEHJpXZjFu/hoPSh1EKs7Z/AYWA2iiIgjmlzkmle7UO\nNgMl3hppAgMBAAECggEAF5BNmRYLiqhh/xG4LRy919LCNKeMeChRLvrX5EQLlzDO\npoxBrpviTu8bTdSi+Ie/VEU7QqLUoq9bOhBaLckRcFEhtBN+dcPGAnnHPZNtZpzb\nwmQQ+ESf3Shfi7Kbcvm1Pkc5RfTEl5S0cSvUnsyOiCtcuCv4s7yvG0zu6inHzaCQ\nDupVdaRBdGXumtXdIilRROssFQfhHupTOcS7oT0j3OWTN9hdPGEsekXJWa3stePq\nOkLygQMsx/SUdd8+JwvcWfh2mKV8aZZVWVKdI9Rmw+nHijUimBuYNgSUXGjPJ0TF\nTKubbuAsMd5e1JL9NmHp8FiCc9ipVHbIfCkhR1x89QKBgQDEsmQOgpfU9cI6oZe8\nUwafjEbyj4yfqg3KvUxlEoJNWRYll7G9UpZspeFC543dW0lNZLxswfRmPEtNLAiV\nRkWH5DjcB+dhf90vjoWF3d7fUdyEEsjTUVZgIftVVkD4OboME4ihWVYAXJziUryV\n09/ECD95wo+hRnnQai9suNp5rQKBgQC5zd5Vok+4VW9K5WFGG1a+jCONYJrfF9we\nMFwOOA+0jEakullWOTobx01tuUL/BPKtoM7aPkmt+025HtbSYT/vpdyB0gkgKWH3\no6gW62DMMgmPycnMAh4ZigBKGvOf2+Akb4WKhPzSkD6zfdsYdICZqQtSp7ptG9XA\nYsm248ZzLQKBgA2xJUnlSVBnsxeFvBw9404j46Rq3a0Xl1IvjyvR+AQOWX5Qauz0\n3Me/XEjd+YAZJKcghgVEExEyzUMX95j8hUaKWnLmkfK1hd4Tm7PP1/3PovwGmrgr\nB0o101sDYA5nZk4E5hPlNhlcWQdgHwSG9SKeOFzvcDQXxc7+NULqMzsZAoGABf2W\nOoqWKWpPwUlt/nWpMVGRX+CKfcDmLu7+ONMj5n1TVcJQWRBVSEn/vBbqCxDcxi5W\nHQE/HOXqVpqg8H2EMzTUzDa6ZpgO+Y4EQGDsaQj/9+vYnsQ+tjIV2k3OJwxOyL3z\nv0iUYjGWY/Ed3Eb9Unb5z3tq7lOka6SDvmrPni0CgYBZMI0Z/G5eNEBifS8tCgXJ\n1bxk5mM38GAVhVKKvUzDdpiQFKl77AcLwifG/B6kFKSargYY5PKFsVExGuUiMayE\nZgmQaw4AZWyZ7XJiWacT4dXzxx5wJKBKbZrgivnF73XN0MoGDqajVxf+soEeJIQp\noN3hKNsbB0qDwSnNZTJ42A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "funny-english@artful-memento-250518.iam.gserviceaccount.com",
+  "client_id": "108060751165590260739",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/funny-english%40artful-memento-250518.iam.gserviceaccount.com"
+}
