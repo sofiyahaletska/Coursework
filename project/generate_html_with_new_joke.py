@@ -6,7 +6,7 @@ import os
 from programming_jokes import new_joke1
 from another_source_of_jokes import new_joke2
 from make_end_of_html import add_end
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:/Users/shale/Downloads/artful-memento-250518-2de2b5613887.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'artful-memento-250518-2de2b5613887.json'
 
 
 def update_page():
