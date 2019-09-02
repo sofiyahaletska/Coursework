@@ -4,7 +4,7 @@ from translation import translate_to_uk
 from google.cloud import translate_v3beta1 as translate
 import os
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:/Users/shale/Downloads/artful-memento-250518-2de2b5613887.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'artful-memento-250518-2de2b5613887.json'
 
 
 def create_dict():
