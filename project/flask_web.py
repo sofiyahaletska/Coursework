@@ -16,7 +16,7 @@ def home():
     :return:
     """
     page = update_page()
-    f = open("D:/YourBackup/Documents/CS/Курсова/Project number 365/templates/main.html", "w", encoding='utf-8')
+    f = open("templates/main.html", "w", encoding='utf-8')
     f.write(page)
     f.close()
     return page
@@ -29,7 +29,7 @@ def next_joke():
     :return:
     """
     page = update_page()
-    f = open("D:/YourBackup/Documents/CS/Курсова/Project number 365/templates/main.html", "w", encoding='utf-8')
+    f = open("templates/main.html", "w", encoding='utf-8')
     f.write(page)
     f.close()
     return page
@@ -45,7 +45,7 @@ def dictionary_append():
     for word in words:
         add_new_word(word, dictionary)
     make_txt(dictionary)
-    f = open("D:/YourBackup/Documents/CS/Курсова/Project number 365/templates/main.html", "r", encoding='utf-8')
+    f = open("templates/main.html", "r", encoding='utf-8')
     text = f.read()
     return text
 
@@ -65,7 +65,7 @@ def return_to_home():
     Returns to homepage from dictionary page.
     :return:
     """
-    f = open("D:/YourBackup/Documents/CS/Курсова/Project number 365/templates/main.html", "r", encoding='utf-8')
+    f = open("templates/main.html", "r", encoding='utf-8')
     text = f.read()
     return text
 
